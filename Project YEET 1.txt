@@ -1,0 +1,103 @@
+Month 1: Fundamentals and Core Concepts
+Goal: Build a strong foundation in DSA.
+
+	Week 1: Arrays and Strings
+		Day 1: Introduction to Arrays, basics, and common operations.
+		Day 2: Practice problems on arrays (e.g., reverse array, find max/min, etc.).
+		Day 3: Two-pointer technique with problems (e.g., pair sum, move zeros).
+		Day 4: Strings introduction and common operations (e.g., palindrome check).
+		Day 5: Sliding window technique (e.g., longest substring without repeating characters).
+		Day 6: Practice array and string problems on LeetCode.
+		Day 7: Revise the 	Week's concepts and take a timed practice test.
+	Week 2: Searching and Sorting
+		Day 8: Binary Search basics with simple problems.
+		Day 9: Advanced Binary Search problems (e.g., search in rotated sorted array).
+		Day 10: Sorting algorithms: QuickSort, MergeSort, BubbleSort.
+		Day 11: Applications of sorting algorithms (e.g., merge intervals, meeting rooms).
+		Day 12: Divide and Conquer problems.
+		Day 13: Practice searching and sorting problems.
+		Day 14: Revise and take a timed test.
+	Week 3: Hashing
+		Day 15: Introduction to HashMaps and HashSets.
+		Day 16: Problems on frequency count and hashing (e.g., two-sum, anagrams).
+		Day 17: Hashing + sliding window problems.
+		Day 18: Advanced hashing applications (e.g., longest consecutive sequence).
+		Day 19: Prefix sums and hash-based optimizations.
+		Day 20: Practice hashing problems.
+		Day 21: Revise and test.
+	Week 4: Recursion and Backtracking
+		Day 22: Basics of recursion, factorial, Fibonacci.
+		Day 23: Backtracking introduction with simple problems (e.g., subsets).
+		Day 24: Advanced backtracking problems (e.g., N-Queens, sudoku solver).
+		Day 25: Combination of recursion with other techniques.
+		Day 26: Practice recursion and backtracking problems.
+		Day 27: Solve mixed problems on recursion.
+		Day 28: Revise and test.
+Month 2: Intermediate Data Structures
+Goal: Master essential data structures for MANG interviews.
+
+	Week 1: Linked Lists
+		Day 29: Singly linked lists basics and common operations.
+		Day 30: Doubly linked lists and circular linked lists.
+		Day 31: Problems on reversing and merging linked lists.
+		Day 32: Fast and slow pointer technique.
+		Day 33: Advanced problems (e.g., detect cycle, flatten linked list).
+		Day 34: Practice linked list problems.
+		Day 35: Revise and test.
+	Week 2: Stacks and Queues
+		Day 36: Stack implementation and basic problems.
+		Day 37: Queue implementation and problems.
+		Day 38: Problems using stack (e.g., valid parentheses, largest rectangle in histogram).
+		Day 39: Problems using queue (e.g., sliding window maximum, rotten oranges).
+		Day 40: Advanced problems (e.g., LRU cache using deque).
+		Day 41: Practice stack and queue problems.
+		Day 42: Revise and test.
+	Week 3: Trees - Part 1
+		Day 43: Binary trees introduction and traversal techniques.
+		Day 44: Problems on traversal (inorder, preorder, postorder).
+		Day 45: Binary search trees (BST) and basic operations.
+		Day 46: Lowest common ancestor, validate BST.
+		Day 47: Practice binary tree problems.
+		Day 48: Solve advanced tree problems.
+		Day 49: Revise and test.
+	Week 4: Trees - Part 2
+		Day 50: Balanced binary trees (AVL, Red-Black trees introduction).
+		Day 51: Heap basics and heap sort.
+		Day 52: Priority queue applications.
+		Day 53: Advanced problems on heaps (e.g., merge K sorted lists).
+		Day 54: Practice tree and heap problems.
+		Day 55: Solve mixed problems involving trees and heaps.
+		Day 56: Revise and test.
+Month 3: Advanced Algorithms
+Goal: Strengthen algorithmic thinking.
+
+	Week 1: Dynamic Programming - Part 1
+		Day 57: Introduction to DP (knapsack problem, memoization vs tabulation).
+		Day 58: Basic DP problems (e.g., Fibonacci, climbing stairs).
+		Day 59: DP with strings (e.g., longest common subsequence).
+		Day 60: Practice problems on basic DP.
+	Week 2: Dynamic Programming - Part 2
+		Day 61: DP on grids (e.g., unique paths, minimum path sum).
+		Day 62: DP with subsequences (e.g., LIS, partition equal subset sum).
+		Day 63: Practice advanced DP problems.
+		Day 64: Revise DP concepts.
+	Weeks 3-4: Graphs
+		Day 65: Graph basics: representation, BFS, DFS.
+		Day 66: Problems on BFS and DFS.
+		Day 67: Shortest path algorithms (Dijkstra’s, Bellman-Ford).
+		Day 68: MST algorithms (Kruskal’s, Prim’s).
+		Day 69: Graph traversal on grids.
+		Day 70: Advanced problems (e.g., topological sort, connected components).
+		Day 71-74: Practice graph problems.
+		Day 75: Revise and test.
+Months 4-5: Problem Solving and Mock Interviews
+Goal: Master problem-solving skills and gain confidence in interviews.
+
+	Weeks 1-3: Problem Solving
+Solve 2-3 problems daily from LeetCode/Codeforces covering all topics.
+Focus on medium to hard problems.
+Track progress and note down patterns.
+	Weeks 4-5: Mock Interviews
+Practice mock interviews on platforms like Pramp or with a peer.
+Revise weak areas and revisit important problems.
+Simulate real interview conditions.
